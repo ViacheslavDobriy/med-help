@@ -55,3 +55,16 @@
     opacity: 1;
     font-weight: bold;
 }
+
+.about {
+    display: flex;
+    align-items: center;
+    gap: 109px;
+    padding-top: 84px;
+}
+
+.about-dots {
+    position: absolute;
+    top: 160px;
+    left: 0;
+}
