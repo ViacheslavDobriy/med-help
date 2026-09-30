@@ -68,3 +68,37 @@
     top: 160px;
     left: 0;
 }
+
+.about-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.about-title {
+    font-family: 'Mulish', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    margin: 0;
+    padding-bottom: 25px;
+}
+
+.about-description {
+    font-family: 'Mulish', sans-serif;
+    font-size: 16px;
+    color: #7D7987;
+    padding-bottom: 45px;
+}
+
+.about-button {
+    background-color: #458FF6;
+    color: white;
+    font-family: 'Mulish', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 12px 24px;
+    border-radius: 55px;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    width: 200px;
+}
