@@ -102,3 +102,37 @@
     text-decoration: none;
     width: 200px;
 }
+
+.services {
+    position: relative;
+    padding-top: 190px;
+}
+
+.services-background {
+    position: absolute;
+    left: -160px;
+}
+
+.services-dots {
+    position: absolute;
+    right: 100px;
+    top: 400px;
+}
+
+.services-container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.services-description {
+
+    /* padding-bottom: 45px; */
+}
+
+.services-title {
+    font-family: 'Mulish', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    color: #000;
+}
